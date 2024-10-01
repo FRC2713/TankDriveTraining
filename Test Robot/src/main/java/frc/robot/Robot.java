@@ -3,9 +3,9 @@
 // the WPILib BSD license file in the root directory of this project.
 
 package frc.robot;
+import org.littletonrobotics.LoggedRobot
 
-
-public class Robot extends TimedRobot {
+public class Robot extends LoggedRobot {
 
 
 }
